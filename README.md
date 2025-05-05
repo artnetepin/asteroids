@@ -1,6 +1,6 @@
 # asteroids
 
-learning python 0.2
+Learning python 0.2 - building an "Asteroids" game
 
 ## TODO
 
